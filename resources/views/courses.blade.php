@@ -46,19 +46,19 @@
                     'Full Stack' => [
                         'color' => 'indigo',
                         'courses' => [
-                            ['name' => 'Java Full Stack', 'duration' => '3 Months', 'fee' => '₹20,000', 'topics' => ['Java', 'Spring Boot', 'Angular', 'Oracle', 'Microservices']],
-                            ['name' => 'Laravel Full Stack', 'duration' => '3 Months', 'fee' => '₹15,000', 'topics' => ['PHP', 'Laravel', 'Vue.js', 'MySQL', 'API Integration']],
+                            ['name' => 'Java Full Stack', 'duration' => '3 Months', 'fee' => '₹15,000', 'topics' => ['Java', 'Spring Boot', 'Angular', 'Oracle', 'Microservices']],
+                            ['name' => 'Laravel Full Stack', 'duration' => '3 Months', 'fee' => '₹10,000', 'topics' => ['PHP', 'Laravel', 'Vue.js', 'MySQL', 'API Integration']],
                             ['name' => 'Python Full Stack', 'duration' => '3 Months', 'fee' => '₹15,000', 'topics' => ['Python', 'Django', 'React', 'PostgreSQL', 'Deployment']],
-                            ['name' => 'Nodejs Full Stack', 'duration' => '3 Months', 'fee' => '₹15,000', 'topics' => ['JavaScript', 'Express.js', 'React', 'MongoDB', 'Real-time Apps']],
+                            ['name' => 'Nodejs Full Stack', 'duration' => '3 Months', 'fee' => '₹10,000', 'topics' => ['JavaScript', 'Express.js', 'React', 'MongoDB', 'Real-time Apps']],
                         ]
                     ],
                     'Backend' => [
                         'color' => 'blue',
                         'courses' => [
-                            ['name' => 'Java', 'duration' => '2 Months', 'fee' => '₹13,000', 'topics' => ['Core Java', 'Advanced Java', 'Spring Boot', 'JDBC']],
-                            ['name' => 'Python', 'duration' => '2 Months', 'fee' => '₹12,000', 'topics' => ['Python Basics', 'Django/Flask', 'Automations', 'API Development']],
-                            ['name' => 'Nodejs', 'duration' => '2 Months', 'fee' => '₹10,000', 'topics' => ['Event Loop', 'Express.js', 'Middleware', 'REST APIs']],
-                            ['name' => 'Laravel (Php Framework)', 'duration' => '2 Months', 'fee' => '₹10,000', 'topics' => ['MVC Architecture', 'Eloquent ORM', 'Blade Engine', 'Migrations']],
+                            ['name' => 'Java', 'duration' => '2 Months', 'fee' => '₹10,000', 'topics' => ['Core Java', 'Advanced Java', 'Spring Boot', 'JDBC']],
+                            ['name' => 'Python', 'duration' => '2 Months', 'fee' => '₹10,000', 'topics' => ['Python Basics', 'Django/Flask', 'Automations', 'API Development']],
+                            ['name' => 'Nodejs', 'duration' => '2 Months', 'fee' => '₹7,000', 'topics' => ['Event Loop', 'Express.js', 'Middleware', 'REST APIs']],
+                            ['name' => 'Laravel (Php Framework)', 'duration' => '2 Months', 'fee' => '₹7,000', 'topics' => ['MVC Architecture', 'Eloquent ORM', 'Blade Engine', 'Migrations']],
                         ]
                     ],
                     'Frontend' => [
@@ -73,9 +73,9 @@
                     'Mobile App & Others' => [
                         'color' => 'emerald',
                         'courses' => [
-                            ['name' => 'Flutter', 'duration' => '2 Months', 'fee' => '₹12,000', 'topics' => ['Dart', 'Widgets', 'State Management', 'Firebase', 'App Store/Play Store']],
-                            ['name' => 'Figma (UI/UX)', 'duration' => '1 Month', 'fee' => '₹10,000', 'topics' => ['Design Systems', 'Prototyping', 'Auto Layout', 'Component Properties']],
-                            ['name' => 'SEO, SMM, PPC (Digital Marketing)', 'duration' => '2 Months', 'fee' => '₹12,000', 'topics' => ['Keyword Research', 'Social Media Ads', 'Google Ads', 'Analytics']],
+                            ['name' => 'Flutter', 'duration' => '2 Months', 'fee' => '₹10,000', 'topics' => ['Dart', 'Widgets', 'State Management', 'Firebase', 'App Store/Play Store']],
+                            ['name' => 'Figma (UI/UX)', 'duration' => '1 Month', 'fee' => '₹8,000', 'topics' => ['Design Systems', 'Prototyping', 'Auto Layout', 'Component Properties']],
+                            ['name' => 'SEO, SMM, PPC (Digital Marketing)', 'duration' => '2 Months', 'fee' => '₹10,000', 'topics' => ['Keyword Research', 'Social Media Ads', 'Google Ads', 'Analytics']],
                         ]
                     ],
                     'AI Courses' => [

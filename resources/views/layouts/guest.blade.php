@@ -275,6 +275,8 @@
                         class="text-[15px] font-bold text-slate-700 hover:text-indigo-600 transition-colors">Courses</a>
                     <a href="{{ route('about') }}"
                         class="text-[15px] font-bold text-slate-700 hover:text-indigo-600 transition-colors">About</a>
+                    <a href="{{ route('careers') }}"
+                        class="text-[15px] font-bold text-slate-700 hover:text-indigo-600 transition-colors">Careers</a>
                     <a href="{{ route('contact') }}"
                         class="text-[15px] font-bold text-slate-700 hover:text-indigo-600 transition-colors">Contact</a>
                 </div>
@@ -302,6 +304,7 @@
                 <a href="{{ route('projects') }}" class="mobile-nav-link text-2xl font-black text-slate-700 block border-b border-slate-100 pb-4">Services</a>
                 <a href="{{ route('courses') }}" class="mobile-nav-link text-2xl font-black text-slate-700 block border-b border-slate-100 pb-4">Courses</a>
                 <a href="{{ route('about') }}" class="mobile-nav-link text-2xl font-black text-slate-700 block border-b border-slate-100 pb-4">About</a>
+                <a href="{{ route('careers') }}" class="mobile-nav-link text-2xl font-black text-slate-700 block border-b border-slate-100 pb-4">Careers</a>
                 <a href="{{ route('contact') }}" class="mobile-nav-link text-2xl font-black text-slate-700 block border-b border-slate-100 pb-4">Contact</a>
             </div>
             
@@ -365,6 +368,7 @@
                     <h4 class="text-lg font-semibold text-white mb-6">Company</h4>
                     <ul class="space-y-4">
                         <li><a href="{{ route('about') }}" class="hover:text-white transition">About Us</a></li>
+                        <li><a href="{{ route('careers') }}" class="hover:text-white transition">Careers</a></li>
                         <li><a href="{{ route('contact') }}" class="hover:text-white transition">Contact Us</a></li>
                         <li><a href="#" class="hover:text-white transition">Privacy Policy</a></li>
                     </ul>

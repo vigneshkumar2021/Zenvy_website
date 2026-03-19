@@ -24,6 +24,10 @@ Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
 
+Route::get('/careers', function () {
+    return view('careers');
+})->name('careers');
+
 Route::post('/enquiry', [\App\Http\Controllers\EnquiryController::class, 'store'])->name('enquiry.store');
 
 // Enrollment Routes
