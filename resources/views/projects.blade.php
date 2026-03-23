@@ -73,7 +73,7 @@
                             <!-- Live Badge -->
                             <div
                                 class="absolute top-4 right-4 bg-[#10b981] text-white px-4 py-1.5 rounded-full text-sm font-bold flex items-center gap-2 z-10 shadow-sm">
-                                <span class="w-2 h-2 bg-white rounded-full"></span> Ongoing
+                                <span class="w-2 h-2 bg-white rounded-full"></span> Live
                             </div>
 
                             <!-- Logo -->
@@ -99,7 +99,7 @@
                             <!-- Visit Site Button (Hover) -->
                             <div
                                 class="absolute inset-0 bg-black/10 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-20">
-                                <a href="#"
+                                <a href="https://knms.in" target="_blank" rel="noopener noreferrer"
                                     class="bg-white text-indigo-600 px-6 py-3 rounded-xl font-bold text-lg shadow-xl flex items-center gap-2 hover:scale-105 transition-transform border border-slate-100">
                                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
